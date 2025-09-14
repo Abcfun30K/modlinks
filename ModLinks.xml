@@ -2635,12 +2635,36 @@ All with an incredible new soundtrack!</Description>
         </Integrations>
     </Manifest>
     <Manifest>
+        <Name>Randomizer 4</Name>
+        <Description>Mod for randomizing things.</Description>
+        <Version>v4.1.5+879</Version>
+        <Link SHA256="d2de7d2d66b519413d70b4ffe68957a0ad7b587acbc329991283c4b4bd9204ad">
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.5+879/RandomizerMod.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Benchwarp</Dependency>
+            <Dependency>QoL</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/homothetyhk/RandomizerMod/issues]]>
+        </Issues>
+    <Manifest>
         <Name>Rope Rando</Name>
         <Description>Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4.</Description>
         <Version>1.1.0.0</Version>
         <Link SHA256="6EB5239EBC99D71BA9648BB0228F30C20D10ED6FDC0CCF8431E828491B3C07BC">
             <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/releases/download/v1.1/RopeRando.zip]]>
         </Link>
+        <Authors>
+            <Author>Abcfun3k</Author>
+        </Authors>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Satchel</Dependency>
