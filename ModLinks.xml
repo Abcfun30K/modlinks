@@ -2841,7 +2841,7 @@ All with an incredible new soundtrack!</Description>
         <Name>ItemChanger</Name>
         <Description>Mod which handles editing items and locations for other mods.</Description>
         <Version>2.1.5.0</Version>
-        <Link SHA256="a7290d949e33fd5d36dfd0ae281620257f759f0f68091386d82ec9c72d19ef4d">
+        <Link SHA256="1C0D36ED41176BA8F4F2EFB2D6690A230DCCC3FBED82799A2C00761F23746A87">
             <![CDATA[https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.5%2B512/ItemChanger.zip]]>
         </Link>
         <Dependencies />
