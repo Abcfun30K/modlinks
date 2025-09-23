@@ -2842,10 +2842,11 @@ All with an incredible new soundtrack!</Description>
         <Description>Mod which handles editing items and locations for other mods.</Description>
         <Version>2.0.0.0</Version>
         <Link SHA256="db578338321efb240a5f6b330fb8b6bb6451e22dd9407aa7ff88276724be1ecb"><![CDATA[https://github.com/Abcfun30K/HollowKnight.ItemChanger/releases/download/v1.4.3.2/ItemChanger.zip]]></Link>
-        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/Abcfun30K/HollowKnight.ItemChanger/]]>
         </Repository>
+        <Dependencies>
+        </Dependencies>
     </Manifest>
     <Manifest>
         <Name>MenuChanger</Name>
