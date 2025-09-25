@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<ModLinks xmlns="https://github.com/Abcfun30K/modlinks"
+<ModLinks xmlns="https://github.com/Abcfun30K/modlinks/main"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://github.com/Abcfun30K/modlinks https://raw.githubusercontent.com/Abcfun30K/modlinks/main/Schemas/ModLinks.xml">
+    xsi:schemaLocation="https://github.com/Abcfun30K/modlinks/main https://raw.githubusercontent.com/Abcfun30K/modlinks/main/Schemas/ModLinks.xml">
     <Manifest>
         <Name>U-tils</Name>
         <Description>Utilities by and for U-tale</Description>
