@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<ApiLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
+<ApiLinks xmlns="https://github.com/Abcfun30K/modlinks/main"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="https://github.com/Abcfun30K/modlinks https://raw.githubusercontent.com/Abcfun30K/modlinks/main/Schemas/ApiLinks.xml">
+    xsi:schemaLocation="https://github.com/Abcfun30K/modlinks/main https://raw.githubusercontent.com/Abcfun30K/modlinks/main/Schemas/ApiLinks.xml">
     <Manifest>
         <Version>74</Version>
 
