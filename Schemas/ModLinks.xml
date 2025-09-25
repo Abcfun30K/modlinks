@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns:mm="https://github.com/Abcfun30K/modlinks" targetNamespace="https://github.com/Abcfun30K/modlinks" elementFormDefault="qualified">
+  xmlns:mm="https://github.com/Abcfun30K/modlinks/main" targetNamespace="https://github.com/Abcfun30K/modlinks/main" elementFormDefault="qualified">
 
   <xs:element name="ModLinks">
     <xs:complexType>
